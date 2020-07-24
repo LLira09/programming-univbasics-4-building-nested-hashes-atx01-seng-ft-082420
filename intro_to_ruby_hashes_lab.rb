@@ -44,7 +44,7 @@ def monopoly_with_third_tier
       }
     }
   }
-
+  monop
 end
 
 def monopoly_with_fourth_tier
